@@ -14,8 +14,11 @@ Développement d’un prototype illustrant le fonctionnement de la solution.
 📌 Livrables attendus :
 <br>
 ✅ Livrable 1 : Étude scientifique des ondes sonores et exploration des solutions possibles.
+<br>
 ✅ Livrable 2 : Expérimentation pour tester et valider les concepts retenus.
+<br>
 ✅ Livrable 3 : Modélisation détaillée du système de transmission et de décodage des signaux.
+<br>
 ✅ Livrable 4 : Prototype fonctionnel présenté lors du comité de pilotage.
 
 L’ensemble du projet sera documenté et simulé dans un environnement Jupyter, garantissant une approche rigoureuse et reproductible pour maximiser les chances d’implémentation opérationnelle. 🚀
