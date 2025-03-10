@@ -12,6 +12,7 @@ Expérimentation et validation des hypothèses par des tests concrets.
 Conception d’un modèle théorique décrivant la chaîne de transmission.
 Développement d’un prototype illustrant le fonctionnement de la solution.
 📌 Livrables attendus :
+<br>
 ✅ Livrable 1 : Étude scientifique des ondes sonores et exploration des solutions possibles.
 ✅ Livrable 2 : Expérimentation pour tester et valider les concepts retenus.
 ✅ Livrable 3 : Modélisation détaillée du système de transmission et de décodage des signaux.
