@@ -11,6 +11,7 @@ Développement d’une solution innovante pour permettre aux agents de l'AIL3C d
 Expérimentation et validation des hypothèses par des tests concrets.
 Conception d’un modèle théorique décrivant la chaîne de transmission.
 Développement d’un prototype illustrant le fonctionnement de la solution.
+<br>
 📌 Livrables attendus :
 <br>
 ✅ Livrable 1 : Étude scientifique des ondes sonores et exploration des solutions possibles.
